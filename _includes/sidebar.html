@@ -8,14 +8,14 @@
 
 <div id="nav-wrapper">
   <div id="profile-wrapper" class="d-flex flex-column">
-    <div id="avatar" class="d-flex justify-content-center">
-      <a href="{{ site.baseurl }}/" alt="avatar">
-        {% assign avatar_url = site.avatar %}
+    <div id="yyyy" class="d-flex justify-content-center">
+      <a href="{{ site.baseurl }}/" alt="yyyy">
+        {% assign yyyy_url = site.avatar %}
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
         {% if start == '/' %}
-          {% assign avatar_url = avatar_url | prepend: site.baseurl %}
+          {% assign yyyy_url = yyyy_url | prepend: site.baseurl %}
         {% endif %}
-        <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{ avatar_url }}" alt="yyyy" onerror="this.style.display='none'">
       </a>
     </div>
 
