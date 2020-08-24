@@ -14,7 +14,7 @@ subtitle: "오합지졸 코딩 이야기"
 email: 77kkyu@gmail.com
 name: 코딩귀신
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  코딩 및 일상 블로그.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -83,7 +83,7 @@ social:
 
    - name: GitHub
      icon: github
-     username: bencentra
+     username: 77kkyu
      url: https://github.com/77kkyu
      desc: Fork me on GitHub
      share: false
