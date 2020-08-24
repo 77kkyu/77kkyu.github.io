@@ -9,9 +9,9 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
+title: 귀신코딩
+subtitle: "오합지졸 블로그"
+email: 77kkyu@gmail.com
 name: Ben Centra
 description: >
   A simple yet classy theme for your Jekyll website or blog.
