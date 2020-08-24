@@ -19,7 +19,7 @@ description: >-                        # used by seo meta and the atom feed
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://77kkyu.github.io/'
-
+baseurl: '/'
 author: 귀신코딩                  # change to your full name
 
 avatar: /assets/img/sample/yyyy.jpg   # support internet resources
