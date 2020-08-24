@@ -41,7 +41,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: keecon-blog
+disqus_shortname: 코딩귀신
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
