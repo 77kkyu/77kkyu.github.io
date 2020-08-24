@@ -10,12 +10,12 @@
   <div id="profile-wrapper" class="d-flex flex-column">
     <div id="yyyy" class="d-flex justify-content-center">
       <a href="{{ site.baseurl }}/" alt="yyyy">
-        {% assign yyyy_url = site.avatar %}
-        {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
+        {% assign yyyy_url = site.yyyy %}
+        {% capture start %}{{ site.yyyy | slice: 0 }}{% endcapture %}
         {% if start == '/' %}
           {% assign yyyy_url = yyyy_url | prepend: site.baseurl %}
         {% endif %}
-        <img src="{{ avatar_url }}" alt="yyyy" onerror="this.style.display='none'">
+        <img src="{{ yyyy_url }}" alt="yyyy" onerror="this.style.display='none'">
       </a>
     </div>
 
