@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 코딩귀신
+title: 해쉬
 subtitle: "오합지졸 코딩 이야기"
 email: 77kkyu@gmail.com
-name: 코딩귀신
+name: 해쉬
 description: >
   일상 & 개발의 관한 소소한 이야기.
 # Base URL of site (i.e. /blog). It should always start with a slash,
