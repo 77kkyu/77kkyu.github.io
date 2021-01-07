@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-04-20 08:43:59
-author: Ben Centra
+author: 해쉬
 categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
